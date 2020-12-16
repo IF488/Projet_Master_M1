@@ -7,5 +7,6 @@ Ce programme utilise l'algorithme Optimisation par Essaim Particulaire pour reto
 ### PSO_Different_Number_Of_Neurons.py
 Ce programme utilise l'algorithme Optimisation par Essaim Particulaire pour retourner un réseau de neurones basé sur KDD ayant un nombre différent de neurones dans chaque couches cachées. 
 
-
+### L'algorithme génetique
+Ce programme utilise l'Algorithme Génétique pour retourner une architecture du réseau de neurones basé sur KDD.
 

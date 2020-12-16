@@ -463,7 +463,7 @@ def func(param):
 
 ##################################################################
 pso = Pso(swarmsize=4,maxiter=14)
-# n,sf,sp,l
+
 bp,value = pso.run(func,[1,1,1,1],[16,16,2,10])
 
 v = func(bp);
